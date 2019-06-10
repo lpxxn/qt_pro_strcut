@@ -1,2 +1,2 @@
 # qt_pro_strcut
-my qt project struct
+my qt project structure
